@@ -1,3 +1,5 @@
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub%2FBazarganDev&countColor=%23ff8a65&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub%2FBazarganDev)
+
 <div align="center">
   
 # 🚀 Faraz Dev
