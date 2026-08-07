@@ -21,21 +21,26 @@
 
 ---
 
+<!-- ABOUT ME - CARD STYLE -->
+<h2 align="center">🧑‍💻 About Me</h2>
+
 <table align="center">
   <tr>
-    <td width="60%">
-      <h2>🧑‍💻 About Me</h2>
-      <p>
-        🔭 Currently working as a <b>Security Specialist</b> at <b>Choztek</b><br/>
-        🌱 Studying at <b>Islamic Azad University, Khoy Branch</b><br/>
-        🛡️ Passionate about <b>Web Security, Bug Bounty & Secure Systems</b><br/>
-        💬 Ask me about <b>React, PHP, Python, Security, OWASP</b><br/>
-        📫 Reach me: <b>Farazalihosseinzadeh@gmail.com</b><br/>
-        ⚡ Fun fact: <b>I speak 5 languages!</b>
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🔭%20Working%20On-Choztek-2ECC71?style=for-the-badge" /><br/>
+      <b>Security Specialist</b>
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🌱%20Learning-React%20%26%20Python-3498DB?style=for-the-badge" /><br/>
+      <b>Azad University, Khoy</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🛡️%20Passion-Web%20Security-FF6B6B?style=for-the-badge" /><br/>
+      <b>Bug Bounty & Secure Systems</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-5%20Languages-FFD700?style=for-the-badge" /><br/>
+      <b>Polyglot</b>
     </td>
   </tr>
 </table>
@@ -56,6 +61,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ---
@@ -71,6 +79,34 @@
 <p align="center">
   <i>✅ I hold completion certificates for all technologies above</i>
 </p>
+
+---
+
+<h2 align="center">⭐️ Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🔒%20Secure%20Auth-System-blue?style=for-the-badge" /><br/>
+      <b>Authentication System</b><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🛡️%20Bug%20Bounty-Tool-orange?style=for-the-badge" /><br/>
+      <b>Security Scanner</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/📊%20Portfolio-Website-green?style=for-the-badge" /><br/>
+      <b>Developer Portfolio</b><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -117,9 +153,9 @@
     </td>
     <td width="50%" align="center">
       <h3>🏅 Certifications</h3>
-      ✅ CEH – Certified Ethical Hacker<br/>
-      ✅ Security+ / Web Security Specialist<br/>
-      ✅ Completion certificates for all frameworks & languages
+      <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-FF0000?style=flat&logo=hackerrank&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Security%2B-Web%20Security%20Specialist-0077B5?style=flat&logo=security&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/📜%20Completion%20Certificates-All%20Technologies-00FF88?style=flat" />
     </td>
   </tr>
 </table>
@@ -167,6 +203,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">📈 Coding Journey</h2>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🚀%20Coding%20Journey&fontSize=30&fontAlignY=50&desc=Faraz%20Alihosseinzadeh%20-%20Developer%20and%20Security%20Specialist&descAlignY=70" alt="Coding Journey" />
+</div>
+
+---
+
+<h2 align="center">🌍 Time Zone & Status</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🕐%20Timezone-UTC%2B3%3A30-orange?style=for-the-badge" alt="Timezone" />
+  <img src="https://img.shields.io/badge/💻%20Working-On%20Security%20Projects-00FF88?style=for-the-badge" alt="Working" />
+  <img src="https://img.shields.io/badge/📊%20Last%20Active-Today-blue?style=for-the-badge" alt="Last Active" />
+</p>
 
 ---
 
