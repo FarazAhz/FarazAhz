@@ -141,16 +141,16 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazAhz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazAhz&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarazAhz&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FarazAhz&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarazAhz&theme=radical&no-frame=true&row=2&column=4&bg_color=0D1117" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FarazAhz&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
 </div>
 
 ---
