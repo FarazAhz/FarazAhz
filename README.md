@@ -140,19 +140,19 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Streak Stats (Works perfectly) -->
+<!-- Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=FarazAhz&theme=radical" alt="GitHub Streak" />
 </div>
 
-<!-- Contribution Graph (Works) -->
+<!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarazAhz&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=00FF88" alt="Contribution Graph" />
 </div>
 
-<!-- Cool Stats Banner -->
+<!-- Stats Banner (Fixed Version) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=📈%20Coding%20Journey&fontSize=30&fontAlignY=50&desc=Faraz%20Alihosseinzadeh%20|%20Developer%20%26%20Security%20Specialist&descAlignY=70" alt="Stats Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=📈%20Coding%20Journey&fontSize=30&fontAlignY=50&desc=Faraz%20Alihosseinzadeh%20-%20Developer%20and%20Security%20Specialist&descAlignY=70" alt="Stats Banner" />
 </div>
 
 ---
@@ -181,5 +181,5 @@
 
 <p align="center">
   <b>⭐️ Thanks for visiting! Feel free to explore my repositories.</b><br/>
-  <i>“Security is not a product, it's a process.”</i>
+  <i>"Security is not a product, it's a process."</i>
 </p>
