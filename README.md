@@ -140,42 +140,38 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=GitHub%20Statistics&fontSize=35&fontAlignY=50&desc=Faraz's%20Coding%20Journey&descAlignY=70" alt="GitHub Stats Banner" />
-</div>
-
-<!-- Streak Stats (Works) -->
+<!-- Streak Stats (Works perfectly) -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=FarazAhz&theme=radical" alt="GitHub Streak" />
 </div>
 
-<!-- Custom Stats Cards -->
+<!-- Contribution Graph (Works) -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&width=300&text=Total%20Commits&fontSize=20&desc=Coming%20Soon...&descAlignY=65" alt="Commits" />
-      </td>
-      <td>
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&width=300&text=Top%20Languages&fontSize=20&desc=Coming%20Soon...&descAlignY=65" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarazAhz&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=00FF88" alt="Contribution Graph" />
 </div>
 
-<!-- Trophy (Try without theme) -->
+<!-- Cool Stats Banner -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarazAhz&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=📈%20Coding%20Journey&fontSize=30&fontAlignY=50&desc=Faraz%20Alihosseinzadeh%20|%20Developer%20%26%20Security%20Specialist&descAlignY=70" alt="Stats Banner" />
 </div>
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">⭐️ GitHub Highlights</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarazAhz&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=00FF88" alt="Contribution Graph" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Repositories-15-blue?style=for-the-badge" alt="Repos" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=for-the-badge" alt="Commits" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Projects-10%2B-orange?style=for-the-badge" alt="Projects" />
+    </td>
+  </tr>
+</table>
 
 ---
 
