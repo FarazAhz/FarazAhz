@@ -140,25 +140,33 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Custom Stats Banner (Always Works!) -->
+<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Faraz's%20GitHub%20Stats&fontSize=30&fontAlignY=50&desc=Check%20out%20my%20repositories!&descAlignY=70" alt="GitHub Stats Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=GitHub%20Statistics&fontSize=35&fontAlignY=50&desc=Faraz's%20Coding%20Journey&descAlignY=70" alt="GitHub Stats Banner" />
 </div>
 
-<!-- Only Streak Stats (Works) -->
+<!-- Streak Stats (Works) -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=FarazAhz&theme=radical" alt="GitHub Streak" />
 </div>
 
-<!-- Simple Stats Cards (Try with minimal params) -->
+<!-- Custom Stats Cards -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazAhz&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&width=300&text=Total%20Commits&fontSize=20&desc=Coming%20Soon...&descAlignY=65" alt="Commits" />
+      </td>
+      <td>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&width=300&text=Top%20Languages&fontSize=20&desc=Coming%20Soon...&descAlignY=65" alt="Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Trophy without frame and with minimal params -->
+<!-- Trophy (Try without theme) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarazAhz&theme=radical&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FarazAhz&no-frame=true" alt="GitHub Trophy" />
 </div>
 
 ---
