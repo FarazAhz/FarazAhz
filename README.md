@@ -56,12 +56,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -95,15 +89,15 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%" style="padding: 10px;">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🖥️%20Web%20Developer-Pent%20Code%20Team-3498DB?style=for-the-badge" /><br/>
       <b>2022 – 2023</b>
     </td>
-    <td align="center" width="33%" style="padding: 10px;">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🚀%20Independent-Developer-9B59B6?style=for-the-badge" /><br/>
       <b>2023 – 2026</b>
     </td>
-    <td align="center" width="33%" style="padding: 10px;">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🛡️%20Security%20Specialist-Choztek-2ECC71?style=for-the-badge" /><br/>
       <b>2026 – Present</b>
     </td>
