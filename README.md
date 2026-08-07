@@ -140,17 +140,25 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
+<!-- GitHub Stats - Version 1 -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazAhz&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+<!-- Backup Stats (if above doesn't load) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarazAhz&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats Backup" />
+</div>
+
+<!-- GitHub Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=FarazAhz&theme=radical" alt="GitHub Streak" />
 </div>
 
+<!-- GitHub Trophy Backup -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarazAhz&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FarazAhz&theme=radical&no-frame=true&column=4" alt="GitHub Trophy" />
 </div>
 
 ---
