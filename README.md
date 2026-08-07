@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarazAhz&label=👁️%20Profile%20Views&color=00FF88&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FarazAhz?label=👥%20Followers&style=for-the-badge&color=9146FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/FarazAhz?label=⭐%20Stars&style=for-the-badge&color=FFD700" alt="Stars" />
-  <img src="https://img.shields.io/badge/🚀%20Status-Active-00FF88?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/💻%20Open%20To-Work-FF6B6B?style=for-the-badge" alt="Open To Work" />
+  <img src="https://komarev.com/ghpvc/?username=FarazAhz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/FarazAhz?label=Followers&style=for-the-badge&color=9146FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/FarazAhz?label=Stars&style=for-the-badge&color=FFD700" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Open%20To-Work-blue?style=for-the-badge" alt="Open To Work" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
     <td width="60%">
       <h2>🧑‍💻 About Me</h2>
       <p>
-        🔭 Currently working as a <b>Remote Security Specialist</b> at <b>Choztek</b><br/>
+        🔭 Currently working as a <b>Security Specialist</b> at <b>Choztek</b><br/>
         🌱 Studying at <b>Islamic Azad University, Khoy Branch</b><br/>
         🛡️ Passionate about <b>Web Security, Bug Bounty & Secure Systems</b><br/>
         💬 Ask me about <b>React, PHP, Python, Security, OWASP</b><br/>
