@@ -36,7 +36,7 @@
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/🛡️%20Expertise-Cyber%20Security-FF6B6B?style=for-the-badge" /><br/>
-      <b>Network, Web, Bug Bounty</b>
+      <b>Network, Web, Bug Bounty & more</b>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-5%20Languages-FFD700?style=for-the-badge" /><br/>
@@ -61,9 +61,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
 </p>
 
 ---
@@ -87,23 +84,28 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🔒%20Secure%20Auth-System-blue?style=for-the-badge" /><br/>
-      <b>Authentication System</b><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/📤%20Telegram%20Bot-Uploader-2ECC71?style=for-the-badge" /><br/>
+      <b>Fadelta Uploader</b><br/>
+      <i>ربات آپلودر پیشرفته تلگرام با مدیریت فایل، امتیازدهی و نظردهی</i><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🛡️%20Bug%20Bounty-Tool-orange?style=for-the-badge" /><br/>
-      <b>Security Scanner</b><br/>
+      <img src="https://img.shields.io/badge/🌐%20New%20Tab-Chrome%20Extension-FF6B6B?style=for-the-badge" /><br/>
+      <b>SitroChromeTab</b><br/>
+      <i>افزونه کروم برای نمایش قیمت رمزارزها، آب‌وهوا و جستجوی گوگل</i><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🌐%20NetPulse-Network%20Tool-3498DB?style=for-the-badge" /><br/>
+      <b>NetPulse</b><br/>
+      <i>ابزار شبکه برای بررسی موقعیت جغرافیایی IP و پینگ از نقاط مختلف جهان</i><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/📊%20Portfolio-Website-green?style=for-the-badge" /><br/>
-      <b>Developer Portfolio</b><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Network-00CC88?style=flat" />
     </td>
   </tr>
 </table>
