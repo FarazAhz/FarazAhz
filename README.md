@@ -86,7 +86,7 @@
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/📤%20Telegram%20Bot-Uploader-2ECC71?style=for-the-badge" /><br/>
       <b>Fadelta Uploader</b><br/>
-      <i>ربات آپلودر پیشرفته تلگرام با مدیریت فایل، امتیازدهی و نظردهی</i><br/>
+      <i>Advanced Telegram bot with file management, rating and comments</i><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
@@ -94,7 +94,7 @@
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🌐%20New%20Tab-Chrome%20Extension-FF6B6B?style=for-the-badge" /><br/>
       <b>SitroChromeTab</b><br/>
-      <i>افزونه کروم برای نمایش قیمت رمزارزها، آب‌وهوا و جستجوی گوگل</i><br/>
+      <i>Chrome extension for crypto prices, weather and Google search</i><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -102,7 +102,7 @@
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🌐%20NetPulse-Network%20Tool-3498DB?style=for-the-badge" /><br/>
       <b>NetPulse</b><br/>
-      <i>ابزار شبکه برای بررسی موقعیت جغرافیایی IP و پینگ از نقاط مختلف جهان</i><br/>
+      <i>Network tool for IP geolocation and global ping testing</i><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Network-00CC88?style=flat" />
