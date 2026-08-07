@@ -150,11 +150,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarazAhz&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&area_color=00FF88" alt="Contribution Graph" />
 </div>
 
-<!-- Stats Banner (Fixed Version) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=📈%20Coding%20Journey&fontSize=30&fontAlignY=50&desc=Faraz%20Alihosseinzadeh%20-%20Developer%20and%20Security%20Specialist&descAlignY=70" alt="Stats Banner" />
-</div>
-
 ---
 
 <h2 align="center">⭐️ GitHub Highlights</h2>
