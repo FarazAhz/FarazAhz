@@ -31,12 +31,12 @@
       <b>Security Specialist</b>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🌱%20Learning-React%20%26%20Python-3498DB?style=for-the-badge" /><br/>
-      <b>Azad University, Khoy</b>
+      <img src="https://img.shields.io/badge/📚%20Studying-Azad%20University-3498DB?style=for-the-badge" /><br/>
+      <b>Khoy Branch</b>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🛡️%20Passion-Web%20Security-FF6B6B?style=for-the-badge" /><br/>
-      <b>Bug Bounty & Secure Systems</b>
+      <img src="https://img.shields.io/badge/🛡️%20Expertise-Cyber%20Security-FF6B6B?style=for-the-badge" /><br/>
+      <b>Network, Web, Bug Bounty</b>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-5%20Languages-FFD700?style=for-the-badge" /><br/>
@@ -139,6 +139,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <i>📌 Open to collaborating on security, development, and bug bounty projects alongside my current role.</i>
+</p>
 
 ---
 
