@@ -11,9 +11,6 @@
 
 ### 🌐 Connect with me:
 - 📧 Farazalihosseinzadeh@gmail.com  
-- 📞 +98 905 194 2775  
-- 📍 Tehran, Iran  
-- 💻 [GitHub](https://github.com/FarazAhz)  
 - ✈️ [Telegram](https://t.me/dev_f_h)
 
 ---
